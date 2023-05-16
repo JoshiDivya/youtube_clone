@@ -1,5 +1,6 @@
+import { Grid, Paper, Typography } from '@mui/material';
 import React from 'react'
-import { Grid ,Paper, Typography} from '@material-ui/core'
+
 
 const VideoItem= ({video,onVideoSelect})=> {
 return(

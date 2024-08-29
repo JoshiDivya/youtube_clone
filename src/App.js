@@ -8,7 +8,7 @@ import youtube from './api/youtube';
 import { Grid } from '@mui/material';
 
  
-const  key='AIzaSyAAZmIyyctj9u56E-Czcq9ePvg8GvA8eyw'
+const  key='ENTER_SECURED_KEY_OF_YOUTUBE'
 export default class App extends Component {
     state= { videos : [],selectedVideo: null};
 
